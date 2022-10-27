@@ -42,7 +42,7 @@ int main( int argc, char** argv )
 	printf("detectnet-console\n  args (%i):  ", argc);
 	
 	for( int i=0; i < argc; i++ )
-		printf("%i [%s]  ", i, argv[i]);
+		printf("%i [%s]  " ", i, argv[i]);
 		
 	printf("\n\n");
 	
